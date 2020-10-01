@@ -113,6 +113,8 @@ dd p.bcode {
 p.code {
 	padding-bottom: 15px;
 	margin: -15px;
+	font-weight:bold;
+	margin:15px;
 }
 
 /*--- Java code effects ---*/
